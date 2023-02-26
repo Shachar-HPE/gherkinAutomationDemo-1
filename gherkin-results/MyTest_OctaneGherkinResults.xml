@@ -15,4 +15,4 @@ Feature: os_feature1
 
 
 
-]]></file><scenarios><scenario name="os_scenario1"><steps><step duration="658700" name="Angenommen angenommen" status="passed"/><step duration="72100" name="Wenn wenn" status="passed"/><step duration="45500" name="Dann dann" status="passed"/></steps></scenario></scenarios></feature></features>
+]]></file><scenarios><scenario name="os_scenario1"><steps><step duration="658700" name="Given" status="passed"/><step duration="72100" name="When" status="passed"/><step duration="45500" name="Then" status="passed"/></steps></scenario></scenarios></feature></features>
