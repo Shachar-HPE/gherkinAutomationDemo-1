@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><features version="1"><feature name="validatie" path="src\test\resources\os_bdd_spec1_7001.feature" started="1659452207439" tag=""><file><![CDATA[# language: en
-#Auto generated Octane revision tag
+<?xml version="1.0" encoding="UTF-8"?><features version="1"><feature name="os_feature1" path="src\test\resources\os_bdd_spec1_7001.feature" started="1659452207439" tag=""><file><![CDATA[
 @BSPID7001REV0.3.0
 Feature: os_feature1
 @TSCID8001
@@ -15,4 +14,4 @@ Feature: os_feature1
 
 
 
-]]></file><scenarios><scenario name="os_scenario1"><steps><step duration="658700" name="Given" status="passed"/><step duration="72100" name="When" status="passed"/><step duration="45500" name="Then" status="passed"/></steps></scenario></scenarios></feature></features>
+]]></file><scenarios><scenario name="os_scenario1"><steps><step duration="658700" name="Given <param1>" status="passed"/><step duration="72100" name="When  <param2>" status="passed"/><step duration="45500" name="Then  <param3>" status="passed"/></steps></scenario></scenarios></feature></features>
